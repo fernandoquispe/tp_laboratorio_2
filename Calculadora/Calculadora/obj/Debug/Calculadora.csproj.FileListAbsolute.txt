@@ -1,0 +1,9 @@
+C:\Fernando\Calculadora\Calculadora\bin\Debug\Calculadora.exe.config
+C:\Fernando\Calculadora\Calculadora\bin\Debug\Calculadora.exe
+C:\Fernando\Calculadora\Calculadora\bin\Debug\Calculadora.pdb
+C:\Fernando\Calculadora\Calculadora\obj\Debug\Calculadora.csprojResolveAssemblyReference.cache
+C:\Fernando\Calculadora\Calculadora\obj\Debug\Calculadora.Form1.resources
+C:\Fernando\Calculadora\Calculadora\obj\Debug\Calculadora.Properties.Resources.resources
+C:\Fernando\Calculadora\Calculadora\obj\Debug\Calculadora.csproj.GenerateResource.Cache
+C:\Fernando\Calculadora\Calculadora\obj\Debug\Calculadora.exe
+C:\Fernando\Calculadora\Calculadora\obj\Debug\Calculadora.pdb
