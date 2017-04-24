@@ -44,7 +44,7 @@
             this.btnLimpiar.TabIndex = 4;
             this.btnLimpiar.Text = "CC";
             this.btnLimpiar.UseVisualStyleBackColor = true;
-            this.btnLimpiar.Click += new System.EventHandler(this.CC_Click);
+            this.btnLimpiar.Click += new System.EventHandler(this.btnLimpiar_Click);
             // 
             // btnOperar
             // 
@@ -76,7 +76,6 @@
             this.txtNumero1.Name = "txtNumero1";
             this.txtNumero1.Size = new System.Drawing.Size(82, 20);
             this.txtNumero1.TabIndex = 7;
-            this.txtNumero1.TextChanged += new System.EventHandler(this.txtNumero1_TextChanged);
             // 
             // txtNumero2
             // 
@@ -107,7 +106,6 @@
             this.Controls.Add(this.btnLimpiar);
             this.Name = "Form1";
             this.Text = "Calculadora";
-            this.Load += new System.EventHandler(this.Form1_Load);
             this.ResumeLayout(false);
             this.PerformLayout();
 

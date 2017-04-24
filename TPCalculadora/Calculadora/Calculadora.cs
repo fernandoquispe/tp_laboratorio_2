@@ -16,7 +16,7 @@ namespace Calculadora
         /// <param name="numero2"></param>
         /// <param name="operador"></param>
         /// <returns></returns>
-        public double operar(Numero numero1, Numero numero2, string operador)
+        public static double operar(Numero numero1, Numero numero2, string operador)
         {
             double result = 0;
             double n1;
