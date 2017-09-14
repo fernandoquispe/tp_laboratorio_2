@@ -1,5 +1,0 @@
-C:\UTN TP\TP 2\TP-02\Entidades\obj\Debug\Entidades.dll
-C:\UTN TP\TP 2\TP-02\Entidades\obj\Debug\Entidades.pdb
-C:\UTN TP\TP 2\TP-02\Entidades\obj\Debug\Entidades_2017.csprojResolveAssemblyReference.cache
-C:\UTN TP\TP 2\TP-02\Entidades\bin\Debug\Entidades.dll
-C:\UTN TP\TP 2\TP-02\Entidades\bin\Debug\Entidades.pdb
