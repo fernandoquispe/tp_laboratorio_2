@@ -1,0 +1,40 @@
+D:\Federico\VB .Net\Visual C#\utn\TP-02\TP-02\bin\Debug\TP-02.exe.config
+D:\Federico\VB .Net\Visual C#\utn\TP-02\TP-02\bin\Debug\TP-02.exe
+D:\Federico\VB .Net\Visual C#\utn\TP-02\TP-02\bin\Debug\TP-02.pdb
+D:\Federico\VB .Net\Visual C#\utn\TP-02\TP-02\bin\Debug\Entidades.dll
+D:\Federico\VB .Net\Visual C#\utn\TP-02\TP-02\bin\Debug\Entidades.pdb
+D:\Federico\VB .Net\Visual C#\utn\TP-02\TP-02\obj\Debug\TP-02.csprojResolveAssemblyReference.cache
+D:\Federico\VB .Net\Visual C#\utn\TP-02\TP-02\obj\Debug\TP-02.exe
+D:\Federico\VB .Net\Visual C#\utn\TP-02\TP-02\obj\Debug\TP-02.pdb
+D:\VisualStudio\Federico Dávila\TP-02\TP-02\bin\Debug\TP-02.exe.config
+D:\VisualStudio\Federico Dávila\TP-02\TP-02\obj\Debug\TP-02.exe
+D:\VisualStudio\Federico Dávila\TP-02\TP-02\obj\Debug\TP-02.pdb
+D:\VisualStudio\Federico Dávila\TP-02\TP-02\obj\Debug\TP-02.csprojResolveAssemblyReference.cache
+D:\VisualStudio\Federico Dávila\TP-02\TP-02\bin\Debug\TP-02.exe
+D:\VisualStudio\Federico Dávila\TP-02\TP-02\bin\Debug\TP-02.pdb
+D:\VisualStudio\Federico Dávila\TP-02\TP-02\bin\Debug\Entidades.dll
+D:\VisualStudio\Federico Dávila\TP-02\TP-02\bin\Debug\Entidades.pdb
+F:\Tecnicatura\Programacion y laboratorio II\TP2\Esquema-TP-02\TP-02\TP-02\bin\Debug\TP-02.exe.config
+F:\Tecnicatura\Programacion y laboratorio II\TP2\Esquema-TP-02\TP-02\TP-02\obj\Debug\TP-02.exe
+F:\Tecnicatura\Programacion y laboratorio II\TP2\Esquema-TP-02\TP-02\TP-02\obj\Debug\TP-02.pdb
+F:\Tecnicatura\Programacion y laboratorio II\TP2\Esquema-TP-02\TP-02\TP-02\obj\Debug\TP-02.csprojResolveAssemblyReference.cache
+F:\Tecnicatura\Programacion y laboratorio II\TP2\Esquema-TP-02\TP-02\TP-02\bin\Debug\TP-02.exe
+F:\Tecnicatura\Programacion y laboratorio II\TP2\Esquema-TP-02\TP-02\TP-02\bin\Debug\TP-02.pdb
+F:\Tecnicatura\Programacion y laboratorio II\TP2\Esquema-TP-02\TP-02\TP-02\bin\Debug\Entidades.dll
+F:\Tecnicatura\Programacion y laboratorio II\TP2\Esquema-TP-02\TP-02\TP-02\bin\Debug\Entidades.pdb
+E:\00_PROGRAMACION2_LABORATORIO2\tp_laboratorio_2-master\TP2\TP-02\bin\Debug\TP-02.exe.config
+E:\00_PROGRAMACION2_LABORATORIO2\tp_laboratorio_2-master\TP2\TP-02\obj\Debug\TP-02.exe
+E:\00_PROGRAMACION2_LABORATORIO2\tp_laboratorio_2-master\TP2\TP-02\obj\Debug\TP-02.pdb
+E:\00_PROGRAMACION2_LABORATORIO2\tp_laboratorio_2-master\TP2\TP-02\bin\Debug\TP-02.exe
+E:\00_PROGRAMACION2_LABORATORIO2\tp_laboratorio_2-master\TP2\TP-02\bin\Debug\TP-02.pdb
+E:\00_PROGRAMACION2_LABORATORIO2\tp_laboratorio_2-master\TP2\TP-02\bin\Debug\Entidades.dll
+E:\00_PROGRAMACION2_LABORATORIO2\tp_laboratorio_2-master\TP2\TP-02\bin\Debug\Entidades.pdb
+E:\00_PROGRAMACION2_LABORATORIO2\tp_laboratorio_2-master\TP2\TP-02\obj\Debug\TP-02.csprojResolveAssemblyReference.cache
+C:\Users\fquispe\Desktop\usar\TP2\TP-02\bin\Debug\TP-02.exe.config
+C:\Users\fquispe\Desktop\usar\TP2\TP-02\obj\Debug\TP-02.exe
+C:\Users\fquispe\Desktop\usar\TP2\TP-02\obj\Debug\TP-02.pdb
+C:\Users\fquispe\Desktop\usar\TP2\TP-02\bin\Debug\TP-02.exe
+C:\Users\fquispe\Desktop\usar\TP2\TP-02\bin\Debug\TP-02.pdb
+C:\Users\fquispe\Desktop\usar\TP2\TP-02\bin\Debug\Entidades.dll
+C:\Users\fquispe\Desktop\usar\TP2\TP-02\bin\Debug\Entidades.pdb
+C:\Users\fquispe\Desktop\usar\TP2\TP-02\obj\Debug\TP-02.csprojResolveAssemblyReference.cache
